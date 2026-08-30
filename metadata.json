@@ -1,0 +1,6 @@
+{
+  "name": "VYORA",
+  "description": "A desktop-first study and learning workspace featuring competitive exams, adaptive practice, library tools, flashcards, mind maps, focus mode, and AI study coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
